@@ -8,7 +8,7 @@ Basic Apps to manage Doctor, Nurse, Patient, Prescription(Resep Obat) and Patien
 2. Manage Patient
 3. Manage Prescription
 4. Manage Admin
-5. Manage Potion
+5. Manage Medicine
 
 #### Detail
 ------
