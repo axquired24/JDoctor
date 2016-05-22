@@ -1,0 +1,1 @@
+<?php header('location: front.php?ur=tampil_pasien'); ?>
